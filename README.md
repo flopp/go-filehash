@@ -1,5 +1,5 @@
 # go-filehash
-Combute hash/checksum of files, insert file hash/checksum into file name while copying
+Compute hash/checksum of files, insert file hash/checksum into file name while copying
 
 ```
 import "filehash"
